@@ -1,1 +1,1 @@
-This is the official code for "Bidirectional Semantic–Boundary Closed-Loop Framework for Agricultural Parcel Delineation in Remote Sensing Imagery"
+This is the official code for "SBCL-Net: A Semantic–Boundary Closed-Loop Network for Agricultural Parcel Delineation in Remote Sensing Imagery"
